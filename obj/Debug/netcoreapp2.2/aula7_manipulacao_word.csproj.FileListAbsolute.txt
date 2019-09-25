@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\aula7_manipulacao_word\bin\Debug\netcoreapp2.2\aula7_manipulacao_word.deps.json
+C:\Users\fic\Desktop\aula7_manipulacao_word\bin\Debug\netcoreapp2.2\aula7_manipulacao_word.runtimeconfig.json
+C:\Users\fic\Desktop\aula7_manipulacao_word\bin\Debug\netcoreapp2.2\aula7_manipulacao_word.runtimeconfig.dev.json
+C:\Users\fic\Desktop\aula7_manipulacao_word\bin\Debug\netcoreapp2.2\aula7_manipulacao_word.dll
+C:\Users\fic\Desktop\aula7_manipulacao_word\bin\Debug\netcoreapp2.2\aula7_manipulacao_word.pdb
+C:\Users\fic\Desktop\aula7_manipulacao_word\obj\Debug\netcoreapp2.2\aula7_manipulacao_word.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\aula7_manipulacao_word\obj\Debug\netcoreapp2.2\aula7_manipulacao_word.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\aula7_manipulacao_word\obj\Debug\netcoreapp2.2\aula7_manipulacao_word.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\aula7_manipulacao_word\obj\Debug\netcoreapp2.2\aula7_manipulacao_word.AssemblyInfo.cs
+C:\Users\fic\Desktop\aula7_manipulacao_word\obj\Debug\netcoreapp2.2\aula7_manipulacao_word.dll
+C:\Users\fic\Desktop\aula7_manipulacao_word\obj\Debug\netcoreapp2.2\aula7_manipulacao_word.pdb
